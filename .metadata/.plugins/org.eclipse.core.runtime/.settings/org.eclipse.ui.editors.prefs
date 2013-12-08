@@ -1,0 +1,11 @@
+AbstractTextEditor.Color.Foreground=26,26,26
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+eclipse.preferences.version=1
+lineNumberRuler=true
+overviewRuler_migration=migrated_3.1
+printMargin=true
+printMarginColumn=85
+quickdiff.characterMode=true
+quickdiff.defaultProvider=org.tigris.subversion.subclipse.quickdiff.providers.SVNReferenceProvider
+spacesForTabs=true
+tabWidth=2

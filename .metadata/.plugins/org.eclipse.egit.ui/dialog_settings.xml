@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="CommitDialog.showUntracked"/>
+	<list key="CommitDialog.authorValues">
+		<item value="Scott Tomaszewski &lt;Tomaszewski_Scott@bah.com&gt;"/>
+		<item value="Scott Tomaszewski &lt; &lt;Tomaszewski_Scott@bah.com&gt;"/>
+		<item value="Scott Tomaszewski&#x0A; &lt;Tomaszewski_Scott@bah.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Scott Tomaszewski &lt;Tomaszewski_Scott@bah.com&gt;"/>
+		<item value="Scott Tomaszewski&#x0A; &lt;Tomaszewski_Scott@bah.com&gt;"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="/home/scotty/code/cw/cw-edh/.git">
+			<item value="false"/>
+			<item value="Scott Tomaszewski &lt;Tomaszewski_Scott@bah.com&gt;"/>
+			<item value="Merge branch &apos;feature/intial_work&apos; of slow:cloudward/cw-edh into feature/intial_work&#x0A;"/>
+			<item value="Scott Tomaszewski &lt;Tomaszewski_Scott@bah.com&gt;"/>
+			<item value="9d2616571b178f18a78b1bedb9465e2b03902a79"/>
+		</list>
+		<list key="/home/scotty/code/cw/cw-util/.git">
+			<item value="true"/>
+			<item value="Scott Tomaszewski &lt;Tomaszewski_Scott@bah.com&gt;"/>
+			<item value="Suppresses warning"/>
+			<item value="Scott Tomaszewski &lt;Tomaszewski_Scott@bah.com&gt;"/>
+			<item value="d25291583fe9343aa8469b0b74242b91353fb4f0"/>
+		</list>
+		<list key="/home/scotty/code/cw/cw-resources/.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="652" key="DIALOG_WIDTH"/>
+		<item value="199" key="DIALOG_Y_ORIGIN"/>
+		<item value="432" key="DIALOG_HEIGHT"/>
+		<item value="313" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Lucida Grande|8.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>

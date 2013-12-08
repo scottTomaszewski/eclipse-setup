@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="filter_imports;" key="filters_last_used"/>
+	<item value="500" key="CallHierarchyViewPart.ratio3"/>
+	<item value="880" key="CallHierarchyViewPart.ratio1"/>
+	<item value="1" key="SearchScopeActionGroup.search_scope_type"/>
+	<item value="899" key="clean_up_save_particpant_modify_dialog.preferred_width"/>
+	<item value="0" key="CallHierarchyViewPart.call_mode"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
+	<item value="537" key="clean_up_save_particpant_modify_dialog.preferred_height"/>
+	<item value="241" key="clean_up_save_particpant_modify_dialog.preferred_y"/>
+	<item value="false" key="delegateUpdating"/>
+	<item value="2106" key="clean_up_save_particpant_modify_dialog.preferred_x"/>
+	<item value="2" key="TypeHierarchyViewPart.orientation"/>
+	<item value="3" key="CallHierarchyViewPart.orientation"/>
+	<item value="true" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="-1" key="org.eclipse.jdt.uiformatter_page.modify_dialog_tab_page.last_focus_index"/>
+	<item value="2" key="CallHierarchyViewPart.field_mode"/>
+	<item value="false" key="SortMembers.sort_all"/>
+	<item value="/home/scotty/code/amtt-core" key="org.eclipse.jdt.ui.cleanup.loadpath"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="/home/scotty/code/amtt-core" key="org.eclipse.jdt.ui.codeformatter.loadpath"/>
+	<item value="4" key="clean_up_save_particpant_modify_dialog.last_focus"/>
+	<list key="SearchScopeActionGroup.working_set">
+	</list>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item value="true" key="showtypes"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item value="false" key="CASE_SENSITIVE"/>
+		<item value="15" key="INCLUDE_MASK"/>
+		<item value="4" key="HISTORY_SIZE"/>
+		<section name="HISTORY2">
+			<item value="11" key="includeMask"/>
+			<item value="2" key="limitTo"/>
+			<item value="0" key="scope"/>
+			<item value="" key="javaElement"/>
+			<item value="tdf.webservice.webapp.ReportJaxbHandler" key="pattern"/>
+			<item value="0" key="matchLocations"/>
+			<item value="0" key="searchFor"/>
+			<item value="true" key="isCaseSensitive"/>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY3">
+			<item value="11" key="includeMask"/>
+			<item value="2" key="limitTo"/>
+			<item value="0" key="scope"/>
+			<item value="" key="javaElement"/>
+			<item value="tdf.webservice.webapp.util.XmlToHtml.transform(InputSupplier&lt;? extends InputStream&gt;)" key="pattern"/>
+			<item value="0" key="matchLocations"/>
+			<item value="1" key="searchFor"/>
+			<item value="true" key="isCaseSensitive"/>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY0">
+			<item value="15" key="includeMask"/>
+			<item value="2" key="limitTo"/>
+			<item value="0" key="scope"/>
+			<item value="=cw-util-xml/\/home\/scotty\/.m2\/repository\/iam\/packaged\/net\/sourceforge\/openexi\/nagasena\/0000.0002.0001.0\/nagasena-0000.0002.0001.0.jar&lt;org.openexi.sax(TransmogrifierException.class[TransmogrifierException^UNEXPECTED_BINARY_VALUE" key="javaElement"/>
+			<item value="org.openexi.sax.TransmogrifierException.UNEXPECTED_BINARY_VALUE" key="pattern"/>
+			<item value="0" key="matchLocations"/>
+			<item value="4" key="searchFor"/>
+			<item value="true" key="isCaseSensitive"/>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY1">
+			<item value="15" key="includeMask"/>
+			<item value="2" key="limitTo"/>
+			<item value="0" key="scope"/>
+			<item value="" key="javaElement"/>
+			<item value="REST_PATH" key="pattern"/>
+			<item value="0" key="matchLocations"/>
+			<item value="0" key="searchFor"/>
+			<item value="false" key="isCaseSensitive"/>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item value="false" key="expanded4"/>
+		<item value="false" key="expanded3"/>
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="false" key="expanded7"/>
+		<item value="false" key="expanded6"/>
+		<item value="false" key="expanded5"/>
+		<item value="true" key="expanded0"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.PackageSelectionDialog">
+		<item value="418" key="height"/>
+		<item value="384" key="width"/>
+		<item value="411" key="y"/>
+		<item value="2449" key="x"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="360" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="399" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+	</section>
+	<section name="DialogBounds_AddUnimplementedConstructorsDialog">
+		<item value="515" key="DIALOG_WIDTH"/>
+		<item value="245" key="DIALOG_Y_ORIGIN"/>
+		<item value="684" key="DIALOG_X_ORIGIN"/>
+		<item value="573" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|8.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="true" key="group_libraries"/>
+		<item value="false" key="linkWithEditor"/>
+		<item value="2" key="layout"/>
+		<item value="1" key="rootMode"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.pde.ui.ExternalPluginLibrariesFilter1&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.pde.ui.BinaryProjectFilter1&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="DialogBounds_AddDelegateMethodsDialog">
+		<item value="588" key="DIALOG_WIDTH"/>
+		<item value="297" key="DIALOG_Y_ORIGIN"/>
+		<item value="530" key="DIALOG_HEIGHT"/>
+		<item value="667" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Lucida Grande|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="AddUnimplementedConstructorsDialog">
+		<item value="false" key="OmitCallToSuper"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item value="526" key="DIALOG_WIDTH"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+		<item value="655" key="DIALOG_HEIGHT"/>
+		<item value="677" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Lucida Grande|8.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="SearchInDialog">
+		<item value="true" key="SearchInJRE"/>
+		<item value="true" key="SearchInProjects"/>
+		<item value="true" key="SearchInAppLibs"/>
+		<item value="true" key="SearchInSources"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item value="false" key="GoIntoTopLevelTypeAction.isChecked"/>
+		<item value="true" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="424" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH"/>
+		<item value="1193" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item value="false" key="RemoveFinal"/>
+		<item value="true" key="SortOrdering"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="515" key="DIALOG_WIDTH"/>
+		<item value="205" key="DIALOG_Y_ORIGIN"/>
+		<item value="684" key="DIALOG_X_ORIGIN"/>
+		<item value="626" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|8.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="CallHierarchySearchScope">
+	</section>
+	<section name="DialogBounds_OverrideMethodDialog">
+		<item value="563" key="DIALOG_WIDTH"/>
+		<item value="341" key="DIALOG_Y_ORIGIN"/>
+		<item value="680" key="DIALOG_X_ORIGIN"/>
+		<item value="379" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item value="2" key="VisibilityModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="1" key="InsertPosition.v2"/>
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="ConvertAnonymousToNestedWizard">
+		<item value="true" key="DeclareAsStatic"/>
+		<item value="2" key="VisibilityControl"/>
+		<item value="true" key="DeclareAsFinal"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="false" key="OmitCallToSuper"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="400" key="height"/>
+		<item value="600" key="width"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+		<item value="1128" key="size.x"/>
+		<item value="191" key="size.y"/>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="true" key="expanded0"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.preferences.EditTemplateDialog_dialogBounds">
+		<item value="761" key="DIALOG_WIDTH"/>
+		<item value="228" key="DIALOG_Y_ORIGIN"/>
+		<item value="84" key="DIALOG_X_ORIGIN"/>
+		<item value="498" key="DIALOG_HEIGHT"/>
+		<item value="1|Lucida Grande|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="338" key="DIALOG_WIDTH"/>
+			<item value="353" key="DIALOG_Y_ORIGIN"/>
+			<item value="486" key="DIALOG_HEIGHT"/>
+			<item value="685" key="DIALOG_X_ORIGIN"/>
+			<item value="1|Lucida Grande|8.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+	<section name="BreadcrumbItemDropDown">
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="-252" key="DIALOG_Y_ORIGIN"/>
+			<item value="-54" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|Lucida Grande|9.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+	<section name="completion_proposal_size">
+		<item value="611" key="size.x"/>
+		<item value="336" key="size.y"/>
+	</section>
+	<section name="ExtractMethodWizard">
+		<item value="false" key="ThrowRuntimeExceptions"/>
+		<item value="false" key="GenerateJavadoc"/>
+		<item value="2" key="AccessModifier"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="false" key="create_main"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="false" key="renameSubpackages"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+		<item value="false" key="updateTextualMatches"/>
+		<item value="false" key="updateSimilarElements"/>
+	</section>
+</section>
