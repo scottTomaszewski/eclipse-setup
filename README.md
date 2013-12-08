@@ -9,3 +9,8 @@ bash script to quickly setup eclipse the way I like
     ./setup.sh
     cd ..
     rm -rf eclipse-setup
+
+This assumes 
+- your eclipse install is at /opt/eclipse/
+- you are executing as the intended user (not root)
+- your workspace is located at ~/workspace
